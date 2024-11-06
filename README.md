@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a full stack web developer<br>likes to code and solve problems
+I am a Full Stack Web Developer<br>likes to code and solve problems
 
 
 # 💻 Tech Stack:
