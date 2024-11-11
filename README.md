@@ -1,6 +1,9 @@
 # 💫 About Me:
 I am a Full Stack Web Developer<br>likes to code and solve problems<br>
-100xdev[Cohort-3] Developer
+100xdev[Cohort-3] Developer<br>
+https://x.com/rohanshrma26 <br>
+Documented My Learnings on X.com
+
 
 
 # 💻 Tech Stack:
