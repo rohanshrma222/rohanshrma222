@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Web Developer<br>likes to code and solve problems
+I am a Full Stack Web Developer<br>likes to code and solve problems<br>
 100xdev[Cohort-3] Developer
 
 
