@@ -1,5 +1,5 @@
 # 💫 About Me:
-100xdevs [Cohort-3] Developer<br>
+100xdevs<br>
 https://x.com/rohanshrma26 <br>
 
 # 💻 Tech Stack:
