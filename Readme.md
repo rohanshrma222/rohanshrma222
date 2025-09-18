@@ -5,5 +5,5 @@
 - ✨ Always curious, always building  
 
 # 🐙 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohanshrma222&theme=rust-ferris-dark&card_height=150)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohanshrma222&theme=youtube-dark&card_height=150&background=0D1117)](https://git.io/streak-stats)
 
