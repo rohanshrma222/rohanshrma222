@@ -5,5 +5,5 @@
 - ✨ Always curious, always building  
 
 # 🐙 GitHub Stats
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanshrma222)](https://github.com/rohanshrma222/github-readme-stats)
+[![Rohan's Github Stats](https://streak-stats.demolab.com/?user=rohanshrma222&theme=radical)](https://git.io/streak-stats)
 
