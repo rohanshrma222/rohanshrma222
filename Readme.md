@@ -5,4 +5,4 @@
 - ✨ Always curious, always building  
 
 # 🔵 GitHub Stats
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanshrma222&hide=stars&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanshrma222&hide=stars&theme=holi)](https://github.com/rohanshrma222/github-readme-stats)
