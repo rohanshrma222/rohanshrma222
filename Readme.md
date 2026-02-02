@@ -6,4 +6,4 @@
 
 # 🔵 GitHub Stats
 
-[![GitHub Streak](https://github-readme-rs.vercel.app?user=rohanshrma222&theme=github-dark-blue&fire=EB5454&ring=EB5454&sideNums=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-rs.vercel.app?user=rohanshrma222&theme=github-dark-blue)](https://git.io/streak-stats)
