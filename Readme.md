@@ -1,7 +1,7 @@
 # 🔷 About Me
 - 🌱 Learning & building in Web + AI + Blockchain  
 - 🛠️ Working with React, Next.js, Node.js  
-- 🎯 Interested in open-source & real-world projects  
+- 🎯 Actively Contrubuting into open-source & real-world projects  
 - ✨ Always curious, always building. 
 
 # 🔵 GitHub Stats
