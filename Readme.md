@@ -7,3 +7,5 @@
 # 🔵 GitHub Stats
 
 [![GitHub Streak](https://github-readme-rs.vercel.app?user=rohanshrma222&theme=github-dark-blue)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=rohanshrma222)
