@@ -17,6 +17,7 @@ I'm Rohan, an engineer from New Delhi building at the intersection of **web, AI,
 
 ### My Journey So Far
 
+- Maintainer at Palisadoes Foundation**.
 - Part of **Google Summer of Code '26**.
 
 - Contribute to open source across TypeScript and Python projects, with **50+ merged pull requests** so far:
