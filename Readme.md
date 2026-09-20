@@ -1,12 +1,5 @@
 # 🔷 About Me
 <div align="center">
-
-<p>
-<a href="https://github.com/rohanshrma222"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-&nbsp;
-<a href="https://x.com/rohanshrma26"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
 </div>
 
 ![](https://komarev.com/ghpvc/?username=rohanshrma222)
@@ -17,7 +10,7 @@ I'm Rohan, an engineer from New Delhi building at the intersection of **web, AI,
 
 ### My Journey So Far
 
-- Maintainer at Palisadoes Foundation**.
+- Maintainer at Palisadoes Foundation.
 - Part of **Google Summer of Code '26**.
 
 - Contribute to open source across TypeScript and Python projects, with **50+ merged pull requests** so far:
@@ -32,19 +25,7 @@ I'm Rohan, an engineer from New Delhi building at the intersection of **web, AI,
 - Built **[InkSync](https://github.com/rohanshrma222/InkSync)**: a real-time collaborative whiteboard in the spirit of Excalidraw, with shapes, arrows, freehand drawing, undo/redo and autosave. Next.js, Express, WebSockets, Prisma.
 
 - Built **[scalable-chat-app](https://github.com/rohanshrma222/scalable-chat-app)**: a chat backend designed to scale horizontally with Redis, Kafka and PostgreSQL.
-
 ---
-
-<div align="center">
-
-Always up for a chat, a collab, or geeking out over cool tech.
-
-**[github.com/rohanshrma222](https://github.com/rohanshrma222)** · [@rohanshrma26](https://x.com/rohanshrma26)
-
-</div>
-
----
-
 # 🔵 GitHub Stats
 
 [![GitHub Streak](https://github-readme-rs.vercel.app?user=rohanshrma222&theme=github-dark-blue)](https://git.io/streak-stats)
