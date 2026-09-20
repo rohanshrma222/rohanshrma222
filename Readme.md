@@ -8,6 +8,8 @@
 
 I'm Rohan, an engineer from New Delhi building at the intersection of **web, AI, and open source**. I like real-time systems, developer tooling, and shipping things people can actually use.
 
+Currently building my own coding agent CLI called Chime.
+
 ### My Journey So Far
 
 - Maintainer at Palisadoes Foundation.
